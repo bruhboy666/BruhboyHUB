@@ -1,4 +1,4 @@
 {
     "Arsenal" :{"script":"https://bruh.keshsenpai.com/.lua","link", "gameid": 111958650},
-    "[NEW!] Pet Simulator X!" :{"script":"loadstring(game:HttpGet("https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua", true))()","link", "gameid":2316994223 },
+    "[NEW!] Pet Simulator X!" :{"script":"https://system-exodus.com/scripts/PetSimulator/PetSimulatorX.lua","link", "gameid":2316994223 },
 }
